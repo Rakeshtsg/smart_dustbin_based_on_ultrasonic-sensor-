@@ -6,6 +6,9 @@
     Eco   + 8
     Vcc + 5v
     GND + GND
+
+
+
 2)Servo motor
     Signal + 7
     Vcc + 3.3v
